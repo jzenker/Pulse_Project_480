@@ -1,2 +1,2 @@
 # Pulse_Project_480
-Senior interactive design project 
+CSCI 480 Capstone project 
